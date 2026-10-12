@@ -1,2 +1,2 @@
 # unityVideoAsMaterial
-Using video files/mp4s as moving image materials
+Template for using video files/mp4s as moving image materials
